@@ -1,7 +1,7 @@
 # Age-Calc
 
 Age Calculator is the python program which calculates the age of the person based on the dateofbirth..
-In this program the user will give the birthdate,birthday,birthyear as input based on it we compute the age of the person upto to today date
+In this program the user will give the birthdate,birthmonth,birthyear as input based on it we compute the age of the person upto to today date
 
 The modules used in this are:
 ----------------------------
